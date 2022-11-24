@@ -10,4 +10,4 @@ Below are discriptions of these R scripts.
 
 **3, Wilcox.test.grp.R**: To proform function Wilcox.test() on variables among at least 3 groups.
 
-
+**4, Abboxplot.R**: To visualize the alpha and beta diversity of a given matrix by function boxplot().

@@ -20,7 +20,7 @@ Wilcox.test.grp <- function(data,grp){
     repeat{
       j=j+1
       
-      test <- wilcox.test(data[i],data[j])
+      test <- wilcox.test(data[grp==level[i]],data[grp==level[j]])
       t.statistic <- test$statistic
       p.value <- test$p.value
       result <- c(t.statistic,p.value)

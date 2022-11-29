@@ -16,6 +16,7 @@ Wilcox.test.grp <- function(data,grp){
   repeat{
     i=i+1
     
+    # use Data[i] to compare with all the Data set behind
     j=i;result.F <- NULL
     repeat{
       j=j+1
@@ -32,11 +33,15 @@ Wilcox.test.grp <- function(data,grp){
     if(i==n-1)break
   }
   
+  # give row name to the result
   rownames(result.F.F) <- level[-n]
+  
+  # give 'w' and 'p' to the result
   result.F.F <- rbind(
     (rep(c('w','p'),n-1))
     ,result.F.F)
-  
+ 
+  # give col name to the result
   i=0;colname <- NULL
   repeat{
     i=i+1

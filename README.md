@@ -4,10 +4,12 @@ During my PhD, I found not satisfied with some basic R functions. Therefore, I t
 
 Below are discriptions of these R scripts.
 
-**1, Abboxplot.R**: To visualize the alpha and beta diversity of a given matrix by function boxplot().
+** Abboxplot.R**: To visualize the alpha and beta diversity of a given matrix by function boxplot().
 
-**2, Element.grp.R**: To find out how many levels of a group.
+** Element.grp.R**: To find out how many levels of a group.
 
-**3, Mean.SE.R**: To calculate the mean and se of a matrix.
+** Mean.SE.R**: To calculate the mean and se of a matrix.
 
-**4, Wilcox.test.grp.R**: To perform function Wilcox.test() on variables among at least 3 groups.
+** Mean.SE.grp.R**: Based on the function Mean.SE() and Element.grp(), To calculate the mean and se of a matrix based on a grp factor.
+
+** Wilcox.test.grp.R**: To perform function Wilcox.test() on variables among at least 3 groups.

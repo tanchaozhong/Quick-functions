@@ -8,6 +8,8 @@ Below are discriptions of these R scripts.
 
 **Element.grp.R**:          To find out how many levels of a group.
 
+**Left.R**:                 To take the number of letters from the left of the string.
+
 **Mean.SE.R**:              To calculate the mean and se of a matrix.
 
 **Mean.SE.grp.R**:          Based on the function *Mean.SE()* and *Element.grp()*, To calculate the mean and se of a matrix based on a grp factor.

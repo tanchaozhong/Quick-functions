@@ -6,6 +6,8 @@ Below are discriptions of these R scripts.
 
 **Abboxplot.R**:            To visualize the alpha and beta diversity of a given matrix by function boxplot().
 
+**Boxplot.grp.R**:          To draw boxplot by just input the data list and levels of a group factor.
+
 **Element.grp.R**:          To find out how many levels of a group.
 
 **Left.R**:                 To take the number of letters from the left of the string.

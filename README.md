@@ -16,6 +16,8 @@ Below are discriptions of these R scripts.
 
 **Mean.SE.grp.R**:          Based on the function *Mean.SE()* and *Element.grp()*, To calculate the mean and se of a matrix based on a grp factor.
 
+**Reorder.R**:              To reorder a matrix by its column.
+
 **Replace.R**:              To replace the elements in a vector with another vector with the same number.
 
 **Wilcox.test.grp.R**:      To perform function Wilcox.test() on variables among at least 3 groups.

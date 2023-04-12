@@ -18,6 +18,8 @@ Below are discriptions of these R scripts.
 
 **Merge.R**:                To count number of individual elements in a vector.
 
+**Order.number.R**:         To order the numbers in a vector follow increase/decrease.
+
 **Reorder.R**:              To reorder a matrix by its column.
 
 **Replace.R**:              To replace the elements in a vector with another vector with the same number.

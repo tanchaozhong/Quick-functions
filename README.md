@@ -20,6 +20,8 @@ Below are discriptions of these R scripts.
 
 **Order.number.R**:         To order the numbers in a vector follow increase/decrease.
 
+**Paste.vector.R**:         To paste all the elements within a vector with a ";"
+
 **Remove.duplicate.vector.R**: To remove the duplicated elements from a vector.
 
 **Reorder.R**:              To reorder a matrix by its column.

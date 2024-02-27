@@ -6,19 +6,21 @@ Below are discriptions of these R scripts.
 
 **Abboxplot.R**:            To visualize the alpha and beta diversity of a given matrix by function boxplot().
 
-**Boxplot.grp.R**:          To draw boxplot by just input the data list and levels of a group factor.
+**Boxplot.grp.R**:          To draw a boxplot by just inputting the data list and levels of a group factor.
 
 **Element.grp.R**:          To find out how many levels of a group.
 
 **Left.R**:                 To take the number of letters from the left of the string.
 
-**Mean.SE.R**:              To calculate the mean and se of a matrix.
+**Mean.SE.R**:              To calculate the mean and standard error of a matrix.
 
-**Mean.SE.grp.R**:          Based on the function *Mean.SE()* and *Element.grp()*, To calculate the mean and se of a matrix based on a grp factor.
+**Mean.SE.grp.R**:          Based on the function *Mean.SE()* and *Element.grp()*, To calculate the mean and standard error of a matrix based on a grp factor.
 
-**Merge.R**:                To count number of individual elements in a vector.
+**Merge.R**:                To count the number of individual elements in a vector.
 
 **Order.number.R**:         To order the numbers in a vector follow increase/decrease.
+
+**Remove.duplicate.vector.R**: To remove the duplicated elements from a vector.
 
 **Reorder.R**:              To reorder a matrix by its column.
 

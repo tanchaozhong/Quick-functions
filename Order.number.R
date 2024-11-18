@@ -18,7 +18,7 @@ Order.number <- function(vector, order='decrease'){
       index <- array[vector==max]
       # put the highest value in the new vector
       if(order=='decrease') new.vector <- c(new.vector,vector[index])
-      if(order=='increase') new.vector <- c(number,new.vector)
+      if(order=='increase') new.vector <- c(vector[index],new.vector)
       # remove the highest value from the vector
       vector<-vector[vector!=max]
       if(length(vector)==0)break

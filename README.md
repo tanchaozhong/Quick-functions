@@ -28,4 +28,6 @@ Below are discriptions of these R scripts.
 
 **Replace.R**:              To replace the elements in a vector with another vector with the same number.
 
+**Term.importance**:        To reduce the number of unnecessary terms that used for systematic review.
+
 **Wilcox.test.grp.R**:      To perform function Wilcox.test() on variables among at least 3 groups.

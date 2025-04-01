@@ -26,6 +26,8 @@ Below are discriptions of these R scripts.
 
 **Reorder.R**:              To reorder a matrix by its column.
 
+**Reorder.matrix.vector.R**  To reorder a matrix or vector by another reference vector
+
 **Replace.R**:              To replace the elements in a vector with another vector with the same number.
 
 **Term.importance**:        To reduce the number of unnecessary terms that used for systematic review.
